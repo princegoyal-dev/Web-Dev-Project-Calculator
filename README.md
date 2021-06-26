@@ -27,7 +27,7 @@
 
 <p align="center">
   <a href="https://github.com/princegoyal-dev/Web-Dev-Project-Calculator">
-    <img src="images/productSs.png" alt="Logo" width="80" height="80">
+    <img src="static/productSs.png" alt="Logo" width="80" height="80">
   </a>
   <h3 align="center">Calculator Project</h3>
   <p align="center">
@@ -101,7 +101,7 @@ To get a local copy up and running follow these simple example steps.
 <!-- ROADMAP -->
 ## Roadmap
 
-See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/princegoyal-dev/Web-Dev-Project-Calculator/issues) for a list of proposed features (and known issues).
 
 
 
