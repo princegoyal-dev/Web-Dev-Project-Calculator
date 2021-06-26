@@ -27,7 +27,7 @@
 
 <p align="center">
   <a href="https://github.com/princegoyal-dev/Web-Dev-Project-Calculator">
-    <img src="static/productSs.png" alt="Logo" width="80" height="80">
+    <img src="static/productSs.png" alt="Logo" width="640" height="640">
   </a>
   <h3 align="center">Calculator Project</h3>
   <p align="center">
