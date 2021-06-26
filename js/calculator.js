@@ -15,6 +15,76 @@ var operand = 0;
 //for referencing the equal sign composition with previous history
 var counter = 0;
 
+
+
+window.addEventListener('keydown', (event) => {
+    
+    if(event.key == "0") {
+        var clickButton = document.getElementById("zero");
+        clickButton.click();
+
+    } else if(event.key == "1") {
+        var clickButton = document.getElementById("1");
+        clickButton.click();
+
+    } else if(event.key == "2") {
+        var clickButton = document.getElementById("2");
+        clickButton.click();
+
+    } else if(event.key == "3") {
+        var clickButton = document.getElementById("3");
+        clickButton.click();
+
+    } else if(event.key == "4") {
+        var clickButton = document.getElementById("4");
+        clickButton.click();
+
+    } else if(event.key == "5") {
+        var clickButton = document.getElementById("5");
+        clickButton.click();
+
+    } else if(event.key == "6") {
+        var clickButton = document.getElementById("6");
+        clickButton.click();
+
+    } else if(event.key == "7") {
+        var clickButton = document.getElementById("7");
+        clickButton.click();
+
+    } else if(event.key == "8") {
+        var clickButton = document.getElementById("8");
+        clickButton.click();
+
+    } else if(event.key == "9") {
+        var clickButton = document.getElementById("9");
+        clickButton.click();
+
+    } else if(event.key == "/") {
+        var clickButton = document.getElementById("divide");
+        clickButton.click();
+
+    } else if(event.key == "*") {
+        var clickButton = document.getElementById("multiply");
+        clickButton.click();
+
+    } else if(event.key == "-") {
+        var clickButton = document.getElementById("subtract");
+        clickButton.click();
+
+    } else if(event.key == "+") {
+        var clickButton = document.getElementById("plus");
+        clickButton.click();
+
+    } else if(event.key == "Enter") {
+        var clickButton = document.getElementById("equal");
+        clickButton.click();
+
+    } else if(event.key == ".") {
+        var clickButton = document.getElementById("dot");
+        clickButton.click();
+    }
+});
+
 // function to clear all clear the calculator
 function ac() {
     display.innerText = "";
