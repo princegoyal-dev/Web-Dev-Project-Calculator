@@ -104,3 +104,13 @@ button {
     margin-left: 50%;
     background-color: #f0f0f0;
 }
+
+#all-clear {
+    height: 50px;
+}
+
+#clearEntry {
+    height: 50px;
+    margin-top: 50px;
+    margin-left: -25%;
+}
